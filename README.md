@@ -1,6 +1,6 @@
-# face_attendance
 
-# Facial Attendance System Documentation
+
+# Facial Attendance System 
 
 ## Overview
 This repository contains a **Facial Attendance System** built using **Streamlit** for the UI and **face_recognition** for detecting and recognizing faces. The system captures live video, identifies individuals using stored images, and logs their attendance.
