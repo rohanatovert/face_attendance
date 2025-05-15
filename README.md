@@ -49,4 +49,4 @@ Once a face is recognized:
 - Allow **real-time notifications** for unauthorized users.
 - Improve accuracy using **deep learning models**.
 
-Let me know if you need modifications or additions. 🚀
+
